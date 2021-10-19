@@ -1,3 +1,11 @@
+# How to start app
+
+`npm i` - dowload dependencies
+
+`npm run start` - to start front-end
+
+`npm run server` - to start back-end
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
