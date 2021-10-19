@@ -1,0 +1,48 @@
+.imgInfoCard img {
+    width: 250px;
+}
+
+.imgInfoCard {
+    line-height: 2
+}
+
+.main {
+    text-align: center;
+    min-height: 100vh;
+    font-size: 18px;
+}
+
+.productInfoCard {
+    padding: 10px;
+    margin: 40px;
+    right: 10%;
+    top: 10%;
+    min-width: 30vw;
+    background: coral;
+
+}
+
+.addCommentButton {
+    padding: 10px;
+}
+
+.inputWrapper Input {
+    width: 300px;
+}
+
+.itemComments a {
+    font-weight: bold;
+    color: black;
+}
+
+.deleteCommentButton {
+    padding: 5px;
+}
+
+.deleteCommentButton Button {
+    width: 300px
+}
+
+.editProductDetailButton {
+    padding-top: 20px;
+}

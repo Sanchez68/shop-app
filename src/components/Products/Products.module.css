@@ -1,0 +1,45 @@
+.photoNotFound{
+    height: 100px;
+    width: 100px;
+}
+.leftContainer{
+    padding-left: 30px;
+}
+.leftContainerMain{
+    margin-right: 10px;
+    min-height: 100vh;
+}
+.addButton{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0 20px 2px;
+}
+.itemWindow{
+    height: 100%;
+    border: 1px solid black;
+    padding: 7px;
+    position:relative;
+}
+.productImg{
+    text-align: center;
+    padding: 5px;
+}
+.productInfo{
+    text-align: center;
+    word-wrap: break-word;
+    margin-bottom: 50px;
+    /*line-height: 1;*/
+    padding: 5px;
+    font-size: 18px;
+}
+.deleteButton{
+    display: flex;
+    /*justify-content: end;*/
+    width: 95%;
+    position:absolute;
+    bottom:5px;
+}
+.deleteButton Button {
+    width: 100%;
+}
